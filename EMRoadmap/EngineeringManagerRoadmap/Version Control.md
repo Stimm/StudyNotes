@@ -1,0 +1,5 @@
+Other than the inherent uses of Git having the ability to [tracking changes ] is critical to the health of a project. There are a number of API's you can use from bit bucket that can pull some very use full data points. From Time in review to size of releases you can make quick use of Git to give you a good snapshots of the health of a team and help identify pain points that need help.
+
+In out project I used them to identify where we where falling short on our deliverables. There where one or two passionate developers who had being going off scope, implementing their own best practices. Buy identifying this we where able to elevate them into positions of change leaders allowing them to run bi-spritntly code enhancement meetings where new ideas could be brought to the teams in a structured way, allowing the principle engineers to digest and weigh in on the changes. 
+
+We also where able prove that the switch to a more truthful agile process was saving us time and increasing out throughput.

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b8eb5e510a6b7a62",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3adcac51da73397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62d0b108607bdbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d48683f38762a415",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b11075e42decc37b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb8db7396c21d11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43fac87b31ae4b68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "67323d9018caa61a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "680655e88f53868c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fd9e8a57c8a947d",
+    "type": "split",
+    "children": [
+      {
+        "id": "31f72540de8ddb00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5853306b05a3a7e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2538461591587ceb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b4bc8a39171d7b01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8ed14e26eeea9035",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d48683f38762a415",
+  "lastOpenFiles": [
+    "Engineering best practices.md",
+    "Continuous Integration & Continuous Delivery (CI/CD).md",
+    "Continuous Integration & Continuous Delivery (CI",
+    "Code Quality.md",
+    "Version Control.md",
+    "Testing.md",
+    "Technical Leadership/Foundational Knowledge.md",
+    "System Design and Architecture.md",
+    "Technical Leadership/Technical Strategy.md",
+    "Technical Leadership/Quality and Process.md",
+    "Technical Leadership.md",
+    "Engineering Manager.md",
+    "Change Management.md",
+    "Change Management",
+    "Change Management/Team Change.md",
+    "Change Management/Organizational Change.md",
+    "Change Management/Technical Change.md",
+    "Knowledge Management.md",
+    "Knowledge Management",
+    "Knowledge Management/Knowledge Transfer.md",
+    "Knowledge Management/Documentation.md",
+    "Stakeholder Management.md",
+    "Stakeholder Management",
+    "Stakeholder Management/Executive Communication.md",
+    "Stakeholder Management/Customer Relations.md",
+    "Stakeholder Management/Partner Management.md",
+    "Crisis Management/Team Support.md",
+    "Crisis Management",
+    "Crisis Management/Incident Response.md",
+    "Crisis Management/Risk Mitigation.md",
+    "Crisis Management.md",
+    "Culture Building",
+    "Business Acumen",
+    "Project Management",
+    "People Management",
+    "Technical Leadership"
+  ]
+}

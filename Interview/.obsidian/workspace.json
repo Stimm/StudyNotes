@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "4e63940d10683f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e768fc7b9932a2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91e73cc2e846d0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How does the internet work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How does the internet work"
+            }
+          },
+          {
+            "id": "ccb7a3ef32ede1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "common questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "common questions"
+            }
+          },
+          {
+            "id": "53724b14fbf5b1aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cSharp language and .Net questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cSharp language and .Net questions"
+            }
+          },
+          {
+            "id": "1c4a984ee947c378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NoSQL questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NoSQL questions"
+            }
+          },
+          {
+            "id": "d03cb02f08686141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c"
+            }
+          },
+          {
+            "id": "866d231f88164533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cSharp coding questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cSharp coding questions"
+            }
+          },
+          {
+            "id": "218cde8ac2a773a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leader Ship Screening.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leader Ship Screening"
+            }
+          },
+          {
+            "id": "f585cd6f88f52e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "c"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11dff51d0c005adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ca423d79bd5890c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a26cdbb96353ba9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a4ed5ffc96e11c30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd12bb03cc25e92b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "089621522f73c7ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd37398c863a91b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e62ebe670af1dc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "c.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for c"
+            }
+          },
+          {
+            "id": "002362bd09422866",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Qualifications and experience.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Qualifications and experience"
+            }
+          },
+          {
+            "id": "071b3c7d46eb1676",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d7a05f671561f73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Qualifications and experience.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Qualifications and experience"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a26cdbb96353ba9",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "cSharp language and .Net questions.md",
+    "c.md",
+    "SQL and Database questions.md",
+    "NoSQL questions.md",
+    "common questions.md",
+    "cSharp coding questions.md",
+    "Leader Ship Screening.md",
+    "Engineering Screening.md",
+    "Untitled.md",
+    "How does the internet work.md",
+    "Interview.md",
+    "Questions for the company.md",
+    "Qualifications and experience.md",
+    "HR Screening.md",
+    "Initial recruiter screening.md",
+    "Array.md",
+    "Coding exam.md",
+    "Executive Screening.md"
+  ]
+}
