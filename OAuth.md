@@ -1,6 +1,8 @@
 
 # OAuth and OpenID are protocols
 
+[[OAuth Interview questions]]
+
 ## Introduction
 ### What is Oauth
 
@@ -180,3 +182,45 @@ If you make your Service worker a OAuth server then JS can directly access your 
 Another option is to use your Backend for you Frontend. The SPA makes a request to a OAuth server but the server sends the data to a App Server not to the SPA. The App server then serves up information to the SPA but never shares the access tokens.
 
 ### How does the client learn who logged in?
+
+For OpenID you preduse a ID Token. 
+To create a ID Token simple take a OAuth request and add a Scope of OpenId
+
+You will get back not only the access token but also an ID token
+Which is a encoded json data containing the user info
+
+### Whats the best way to Validate Access tokens
+
+There are two ways to Valadat an Access Token
+
+##### The Fast Way
+Local Validation: Because the token is sined you can check the token with math to insure its valid. Because its sined the contents cant be tamperd with. If the token is changed or is no longer valid before the token expired then this way will not work.
+
+##### The Strong Way
+Remote Introspection: We can ask the OAuth server if the token is valid. More secure as it will check the validity of the token at all points leading up to it becoming expired.
+
+#### Hybrid approach
+API Gateway Token Validation: This way the Gateway will handel all incoming requests and handle the validation of the tokens for you in a Local validation way.
+
+Should a Gateway recieve a request for an API that will access a users credit card data then the API's that handle that card should use the Strong way, the Token Introspection token.
+
+![[Pasted image 20250507121832.png]]
+
+#### How long should access tokens and refresh tokens should last 
+
+The longer a token should last the longer Local Validation can be incorrect.
+Shorter Tokens could cause a worse user experience.
+
+There is not right or wrong anwser just choices to make such as 
+
+Different lifetimes for Different Users/Scopes
+- Admin Users: Require Admin users to log in every day
+- Consumer Users: Best UX, log in once and appear to be logged in forever
+- Privileged Scopes: Prevent applications from using privileged scopes with out the user being present. Spesfic opperations will need you to log in for such as Check out over Browsing.
+
+
+
+Further links: Oauth.com/playground
+			Oauth.com
+
+
