@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "OAuth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OAuth"
+            }
+          },
+          {
+            "id": "9b7da4c1649060b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Interview/Engineering Screening.md",
                 "mode": "source",
                 "source": false
@@ -22,21 +36,21 @@
             }
           },
           {
-            "id": "9b7da4c1649060b7",
+            "id": "099dba642e818360",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OAuth Interview questions.md",
+                "file": "Microservices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAuth Interview questions"
+              "title": "Microservices"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "009689e9ec458f89",
@@ -184,16 +197,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b7da4c1649060b7",
+  "active": "099dba642e818360",
   "lastOpenFiles": [
-    "OAuth.md",
+    "Microservices.md",
     "Interview/Engineering Screening.md",
-    "OAuth Interview questions.md",
-    "Pasted image 20250507121832.png",
-    "Interview/cSharp language and .Net questions.md",
-    "Interview/cSharp coding questions.md",
-    "Interview/common questions.md",
     "Interview/Coding exam.md",
+    "OAuth Interview questions.md",
+    "Sample Project Readme.md",
+    "OAuth.md",
+    "Interview/common questions.md",
+    "Interview/cSharp language and .Net questions.md",
+    "Pasted image 20250514102632.png",
+    "Pasted image 20250512115042.png",
+    "Pasted image 20250512115000.png",
+    "Pasted image 20250512112006.png",
+    "Pasted image 20250507121832.png",
+    "Interview/cSharp coding questions.md",
     "Interview/Questions for the interviewers.md"
   ]
 }
