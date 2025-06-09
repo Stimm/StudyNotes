@@ -41,16 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microservices.md",
+                "file": "Interview/cSharp language and .Net questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microservices"
+              "title": "cSharp language and .Net questions"
+            }
+          },
+          {
+            "id": "1a2925de92622084",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +92,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "path:\"Interview/\" ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -103,11 +113,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 433.5
   },
   "right": {
     "id": "009689e9ec458f89",
@@ -197,21 +208,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "099dba642e818360",
+  "active": "b3531274b04a9072",
   "lastOpenFiles": [
-    "Microservices.md",
-    "Interview/Engineering Screening.md",
-    "Interview/Coding exam.md",
-    "OAuth Interview questions.md",
-    "Sample Project Readme.md",
-    "OAuth.md",
-    "Interview/common questions.md",
     "Interview/cSharp language and .Net questions.md",
+    "OAuth.md",
+    "Interview/Engineering Screening.md",
+    "Interview/Interview.md",
+    "Interview/HR Screening.md",
+    "Interview/Array.md",
+    "Microservices.md",
+    "Sample Project Readme.md",
+    "OAuth Interview questions.md",
+    "Pasted image 20250507121832.png",
+    "Interview/Coding exam.md",
+    "Interview/common questions.md",
     "Pasted image 20250514102632.png",
     "Pasted image 20250512115042.png",
     "Pasted image 20250512115000.png",
     "Pasted image 20250512112006.png",
-    "Pasted image 20250507121832.png",
     "Interview/cSharp coding questions.md",
     "Interview/Questions for the interviewers.md"
   ]
